@@ -13,7 +13,7 @@ export const fmtDate = (d, opts = { weekday: 'short', day: 'numeric', month: 'sh
 // ---------- body + targets ----------
 export const ACTIVITY = {
   sedentary: { f: 1.2, label: 'Mostly sitting', hint: 'Desk job, little walking, no exercise' },
-  light: { f: 1.375, label: 'Lightly active', hint: 'Desk job + gym 3 days a week' },
+  light: { f: 1.375, label: 'Lightly active', hint: 'Desk job + gym 5 days a week' },
   moderate: { f: 1.55, label: 'Moderately active', hint: 'On your feet a lot, or gym 4–5 days' },
   active: { f: 1.725, label: 'Very active', hint: 'Physical job or hard training most days' }
 };
