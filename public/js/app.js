@@ -258,7 +258,7 @@ function renderLogin() {
   <section class="login">
     <img class="logo" src="icons/icon-192.png" alt="">
     <h1>RepPlate</h1>
-    <p class="lead">Train smart, eat right. Your personal gym and diet coach.</p>
+    <p class="lead">Train well, eat right. Your personal gym and diet coach.</p>
     <ul class="ticks">
       <li>Beginner workouts with how-to notes for every machine</li>
       <li>Indian meal plan with rice bowls, protein and calories</li>
